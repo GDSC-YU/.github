@@ -5,7 +5,7 @@ Credits to [Osama Khlefawi](https://www.instagram.com/puppet_zip/) for this beau
 
 <div align="center">
 
-<h3>We are proud members of the Google Developer Student Club at Al-Yamamah University, an initiative by Google aimed at helping students bridge the gap between theory and practice by empowering aspiring developers with the skills, tools, and resources they need to succeed.</h3>
+<h3>We are an initiative by Google aimed at helping you bridge the gap between theory and practice by empowering aspiring developers with the skills, tools, and resources they need to succeed.</h3>
 
 <a href="https://gdsc.community.dev/al-yamamah/" target="_blank"><img src="https://img.shields.io/badge/GDSC%20Chapter-Check%20Us%20Out%20&%20Join%20Us-f68938?style=flat&logoColor=fff" alt="GDSC Chapter" /></a>
 
