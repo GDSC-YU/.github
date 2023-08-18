@@ -1,7 +1,7 @@
 # Hello There 👋
 
 ![GDSC YU](https://raw.githubusercontent.com/GDSC-YU/.github/main/profile/yu-google-dev-club.png)
-Credits to [Osama Khlefawi](https://www.instagram.com/pupp3t.zip/) for this beautiful hand-drawn illustration.
+Credits to [Osama Khlefawi](https://www.instagram.com/dumiiya/) for this beautiful hand-drawn illustration.
 
 <div align="center">
 
